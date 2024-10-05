@@ -8,6 +8,6 @@ using namespace std;
 
 int main()
 {
-    std::cout << "This is a test "!\n";
+    std::cout << "This is where you will start the code process "!\n";
 }
 
